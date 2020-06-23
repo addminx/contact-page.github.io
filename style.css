@@ -50,7 +50,7 @@ main {
 	float: right;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 375px) {
 
 	.link-vk {
 		font-size: 15px;
@@ -84,7 +84,7 @@ main {
 	}
 }
 
-@media screen and (min-width: 375px) and (max-width: 425px) {
+@media screen and (min-width: 375px) and (max-width: 575px) {
 
 	.link-vk {
 		margin-top: 15px;
@@ -117,7 +117,7 @@ main {
 
 }
 
-@media screen and (max-width: 768px) and (min-width: 576px)  {
+@media screen and (min-width: 575px) and (max-width: 768px)  {
 
 	.link-vk {
 		border-radius: 4px;
