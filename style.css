@@ -79,10 +79,11 @@ main {
 
 	.container {
 		max-width: 280px;
-		margin-top: 50px;
+		margin-top: 65px;
 		padding: 0 20px;
 	}
 }
+
 
 @media screen and (min-width: 375px) and (max-width: 575px) {
 
@@ -110,7 +111,7 @@ main {
 	}
 
 	.container {
-		margin-top: 50px;
+		margin-top: 70px;
 		max-width: 390px;
 		padding: 0 20px;
 	}
@@ -139,6 +140,7 @@ main {
 	}
 
 	.container {
+		margin-top: 85px;
 		max-width: 470px;
 		padding: 0 20px;
 	}
@@ -153,14 +155,14 @@ main {
 	.link-vk {
 		border-radius: 7px;
 		padding: 20px 100px;
-		font-size: 30px
+		font-size: 30px;
 
 	}
 
 	.link-inst {
 		border-radius: 7px;
 		padding: 20px 100px;
-		font-size: 30px
+		font-size: 30px;
 	}
 
 	.container-name {
